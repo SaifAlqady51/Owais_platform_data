@@ -1,9 +1,26 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    "forms":[
+    {
+        "id":1,
+        "form":"Know yoru client form",
+        "date":"Jun 22, 2023"
+    },
+    {
+        "id":2,
+        "form":"Foreign Account Tax Compliance Act",
+        "date":"Jun 22, 2023"
+    },    {
+        "id":3,
+        "form":"Custodian Form",
+        "date":"Jun 22, 2023"
+    },    {
+        "id":4,
+        "form":"AML Form",
+        "date":"Jun 22, 2023"
+    },    {
+        "id":5,
+        "form":"Know Your Client Form",
+        "date":"Jun 22, 2023"
+    }
+]
 }
